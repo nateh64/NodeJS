@@ -1,0 +1,42 @@
+header
+{
+    height: 150px;
+    width: inherit;
+    background-color: #353535;
+}
+
+header div
+{
+    margin:0 auto;
+    height: 80%;
+    width:inherit;
+}
+
+header div img{
+    width: auto;
+    height: inherit;
+}
+
+article
+{
+    height: 100px;
+    width: 97%;
+    background-color: red;
+    border: 20px solid green;
+}
+
+
+
+section div
+{
+    background-color: grey;
+    height: 400px;
+    width: 100%;
+}
+
+footer
+{
+    height: 130px;
+    width: 100%;
+    background-color: #333333;
+}
